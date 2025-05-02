@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pastel_pink">#FFFFD1DC</color>       <!-- Rosa suave -->
+    <color name="pastel_lavender">#FFC8A2C8</color>   <!-- Lavanda ligera -->
+    <color name="pastel_mint">#FFC1E1C1</color>       <!-- Menta suave -->
+    <color name="pastel_peach">#FFFFDAB9</color>      <!-- Durazno claro -->
+    <color name="pastel_yellow">#FFFFFFE0</color>     <!-- Amarillo pálido -->
+    <color name="pastel_blue">#FFAEC6CF</color>       <!-- Azul cielo suave -->
+    <color name="pastel_green">#FF77DD77</color>      <!-- Verde menta -->
+    <color name="pastel_orange">#FFFFB347</color>     <!-- Naranja suave -->
+    <color name="pastel_purple">#FFB39EB5</color>     <!-- Púrpura tenue -->
+    <color name="pastel_teal">#FF99E1D9</color>       <!-- Verde azulado claro -->
+</resources>
